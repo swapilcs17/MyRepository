@@ -1,6 +1,4 @@
-package com.qtpselenium.facebook.pom.util;
 
-//http://relevantcodes.com/Tools/ExtentReports2/javadoc/index.html?com/relevantcodes/extentreports/ExtentReports.html
 
 
 import java.io.File;
